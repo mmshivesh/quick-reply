@@ -10,5 +10,5 @@ Clone this repo (`git clone https://github.com/relative/quick-reply.git`) to you
 
 | Shortcut                               | Action                             |
 | -------------------------------------- | ---------------------------------- |
-| <kbd>Ctrl</kbd> + <kbd>ArrowUp</kbd>   | Reply to earlier message (upwards) |
-| <kbd>Ctrl</kbd> + <kbd>ArrowDown</kbd> | Reply to later message (downwards) |
+| <kbd>Cmd</kbd> + <kbd>ArrowUp</kbd>   | Reply to earlier message (upwards) |
+| <kbd>Cmd</kbd> + <kbd>ArrowDown</kbd> | Reply to later message (downwards) |

@@ -60,7 +60,7 @@ class QuickReply extends Plugin {
   }
 
   keyDown = async (event) => {
-    if (!event.ctrlKey) return
+    if (!event.metaKey) return
     if (event.key !== 'ArrowUp' && event.key !== 'ArrowDown') return
 
     let messages = await this.getMessages(getChannelId())
